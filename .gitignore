@@ -1,0 +1,7 @@
+/.vscode
+/analysis
+/config.py
+/main.py
+/temp
+/Tests
+/__pycache__
